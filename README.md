@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @umangshrestha
-- 👀 I’m interested in learning and trying new things
-- 🌱 I’m currently learning react
+- 👀 I’m interested in learning microcontrollers
+- 🌱 I’m currently learning avr-c
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me umangshrestha09@gmail.com
 
